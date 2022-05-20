@@ -1,2 +1,2 @@
 # GeeRPC
-七天用go语言从零实现系列GeeRPC
+用golang实现的基于net/rpc包的rpc框架
